@@ -1,16 +1,15 @@
-## Hi there 👋
+## Salve/Hello/Hola 👋
 
-<!--
-**tccsantos/tccsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Thiago, a software developer based in Brazil
 
-Here are some ideas to get you started:
+I try to build most of things that come to my mind.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Especially the silly ones me and my friends come up with, hehe.
+
+The languages I am most proficient are Python and PHP, but I know a handful of others.
+
+Feel free to check what I can do, but I would recommend starting with .
+
+# Fun Facts
+- I don't drink coffee nor energy drinks
+- I want to adopt a cat, they look cute

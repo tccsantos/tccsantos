@@ -10,6 +10,6 @@ The languages I am most proficient are Python and PHP, but I know a handful of o
 
 Feel free to check what I can do, but I would recommend starting with .
 
-# Fun Facts
+### Fun Facts
 - I don't drink coffee nor energy drinks
 - I want to adopt a cat, they look cute

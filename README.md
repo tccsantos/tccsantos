@@ -1,6 +1,6 @@
 ## Salve/Hello/Hola 👋
 
-I am Thiago, a software developer based in Brazil
+I am Thiago, a software developer based in Brazil.
 
 I try to build most of things that come to my mind.
 

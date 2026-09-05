@@ -8,7 +8,9 @@ Especially the silly ones me and my friends come up with, hehe.
 
 The languages I am most proficient are Python and PHP, but I know a handful of others.
 
-Feel free to check what I can do, but I would recommend starting with .
+Speaking of languages, I also speak Portuguese (natively), English(Fluently) and Spanish(Advanced); soon Japanese (I hope).
+
+Feel free to check what I can do, but I would recommend starting with the [Bets Project](https://github.com/tccsantos/Bets).
 
 ### Fun Facts
 - I don't drink coffee nor energy drinks
